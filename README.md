@@ -42,3 +42,5 @@ The purpose of our application is to help provide users with strong and securabl
 ## NLP Techniques
 
 Write a description of what natural lanugage technique (NLP) you implemented in your project. State which methods in your project are associated with this, and a brief explanation of how those methods word and how they are necessary in the NLP technique. 
+
+A natural langauge technique that we implemented in our project was the .get() method. This method helped us get the specifed index from our .txt file and use the .random method to help provide a unique password recommendation to our users. This method helps us apply a natural language technique into our project.
