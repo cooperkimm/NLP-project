@@ -30,7 +30,8 @@ Record a short video of your project to display here on your README. You can do 
 - Upload the thumbnail image to your repo.
 - Use the following markdown code:
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[![Thumbnail for my projet]![cybersecurity](https://github.com/user-attachments/assets/33795ffe-c805-4acd-9bef-60bd1b894e38)
+](youtube-URL-here)
 
 ## Project Description
 
