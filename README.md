@@ -37,7 +37,7 @@ Record a short video of your project to display here on your README. You can do 
 
 Write a description of the goal and/or problem that your application. Include descriptions of what text is being analyzed, either if its text files you are using to interpret text an how the user interacts with your project.
 
-The purpose of our application is to help provide users with strong and securable password recommendations. We used the passwords.txt data set from the provided github, giving us examples of different passwords that are not secure. We also created a separate txt file where we included more securable passwords. The goal of our application is to limit worldwide hacking and keep personal information safe.
+The purpose of our application is to help provide users with strong and securable password recommendations. We used the passwords.txt data set from the provided github, giving us examples of different passwords that are not secure. We also created a separate txt file where we included more securable passwords. The goal of our application is to limit worldwide hacking while also keeping a person's personal information safe.
 
 ## NLP Techniques
 
